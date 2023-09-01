@@ -1,0 +1,6 @@
+{
+  "extends": "@primodeckers-ignite-ui/ts-config/base.json",
+  "include": [
+    "src"
+  ]
+}
